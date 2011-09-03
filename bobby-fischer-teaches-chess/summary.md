@@ -1,0 +1,29 @@
+# Bobby Fischer Teaches Chess
+
+- Pin other pieces (it can't move because the other piece will attack the king)
+  - pinning is a special strategy as we can move pieces in somewhat dangerous positions, possibly the piece being captured but it won't be because the piece that could capture is pinned. e.g. program 79
+- checkmating moves
+  - back-rank mating combinations: start attacking with one piece to remove the defenders and then have enough power to mate: for this kind of attack there's always a key first move
+  - back-rank mating
+  - driving away the king to have enough power to mate
+    - e.g. program 171: drive away the king, so you can capture the piece and mate. If you capture the piece, the king can capture your piece
+  - sacrifices that demolish pawn structures in front of the king to break up a good defense
+- defense moves
+  - interposition: when you defend a check move with a move from another piece blocking the attack
+    - interposition can be useful when there is another piece protecting the piece that will interpose the attack (program 80)
+  - useless interposition: when you try to defend an attack but the attacking piece can capture the piece that tried to defend. (program 80)
+  - [Back-Rank Mate](https://www.chess.com/terms/back-rank-mate-chess): back-rank can backfire
+    - back-rank mate can also happen sideways and you should also be aware of it
+  - escape square or flight square: it's a safe square for the king to escape the check so no check-mate
+- it's a good brain teaser for people who don't know much about chess and want to develop chess knowledge
+- I like how it talks only about mating positions but teaches about different techniques like pinned pieces, defense moves, useless and useful interposition
+- It's pretty obvious for more experienced chess players but it could offer more detailed explanations in some programs: e.g. 102 — hook should not capture the bishop because the knight can defend opening space for the black bishop to defend the king later on. It only explains: “The other moves would allow Black to escape mate”, which is correct but not complete for the majority of people who are initiating in the game
+- I like how it gets harder and harder to find the obvious answer. It's like it's building up more and more chess knowledge over time
+- One interesting idea on how to read this book: pair it with the [chess.com](http://chess.com) board and set up the puzzle you're trying to solve. Ask for the computer to solve the three best mating moves but force your mind first to find a different position besides the best or obvious ones.
+  - An interesting insight I got from this experience is that my head was not holding space/memory for pieces that were captured and the spaces were open (leading to flight/safe squares). e.g. program 205: I shouldn't capture pawn with a bishop, I didn't realize it opens a flight square for the king to escape
+- I liked how it's really interactive and makes you think and analyse end games
+- program 134 has two possible combinations from a black defense that lead to a mate. There is no good defense to stop the mate
+  - rook takes rook; rook takes rook; rook takes rook; knight takes rook; queen mates
+  - rook takes rook; knight takes rook; queen mates
+- I like how in some programs, they force you to calculate different positions because if you don't choose the right key move, you lose the mate or can't properly defend. It pushes you to calculate multiple possible positions and make a better choice. After a good amount of plays, I missed positions and learned I could've thought more carefully about the moves
+- I like how he presents a summary of the chapter and does a review of all the concepts learned

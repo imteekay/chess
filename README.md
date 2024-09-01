@@ -6,3 +6,4 @@
 ## Books
 
 - [Dvoretsky's Endgame Manual](https://www.goodreads.com/book/show/83341.DVORETSKY_S_ENDGAME_MANUAL_2nd_Ed_)
+- [My 60 Memorable Games — Bobby Fischer](https://www.goodreads.com/book/show/683096.My_60_Memorable_Games)

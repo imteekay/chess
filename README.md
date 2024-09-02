@@ -6,6 +6,7 @@
 - [Chess Pro Explains Chess in 5 Levels of Difficulty](https://www.youtube.com/watch?v=T1RJyn7qBUM)
 - [Under 800 Rated? Watch This](https://www.youtube.com/watch?v=CepTyY9NHGM)
 - [Under 800 Rated? Watch This](https://www.youtube.com/watch?v=qmJD2S3oy4M)
+- [Under 1600 Rated? Watch This](https://www.youtube.com/watch?v=mxBY0qYUFQA)
 
 ## Books
 

@@ -8,6 +8,7 @@
 - [Under 800 Rated? Watch This](https://www.youtube.com/watch?v=qmJD2S3oy4M)
 - [Under 1600 Rated? Watch This](https://www.youtube.com/watch?v=mxBY0qYUFQA)
 - [Back-Rank Mate](https://www.chess.com/terms/back-rank-mate-chess)
+- [The BEST Way To Calculate in Chess](https://www.youtube.com/watch?v=AN4gqEqIXm0)
 
 ## Books
 

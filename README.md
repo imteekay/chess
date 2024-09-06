@@ -9,6 +9,7 @@
 - [Under 1600 Rated? Watch This](https://www.youtube.com/watch?v=mxBY0qYUFQA)
 - [Back-Rank Mate](https://www.chess.com/terms/back-rank-mate-chess)
 - [The BEST Way To Calculate in Chess](https://www.youtube.com/watch?v=AN4gqEqIXm0)
+- [Chess Steps (600-1000)](https://www.youtube.com/watch?v=ScY7qXkmTwA)
 
 ## Books
 

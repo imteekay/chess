@@ -10,6 +10,7 @@
 - [Back-Rank Mate](https://www.chess.com/terms/back-rank-mate-chess)
 - [The BEST Way To Calculate in Chess](https://www.youtube.com/watch?v=AN4gqEqIXm0)
 - [Chess Steps (600-1000)](https://www.youtube.com/watch?v=ScY7qXkmTwA)
+- [Chess calculation for beginners and grandmasters](https://www.youtube.com/watch?v=E-_mlyCNrFs)
 
 ## Books
 

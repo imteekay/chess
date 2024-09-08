@@ -21,6 +21,8 @@
 
 ### 2: Steinitz – Wilson, London 1862
 
+- [Board](https://lichess.org/study/fmCGaziQ/3xbXMcxD)
+
 ![](easy/002.png)
 
 - Find possible ways to check the king

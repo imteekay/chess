@@ -1,6 +1,10 @@
 # The Woodpecker Method
 
-## 1: Hamppe – Steinitz, Vienna 1860
+## Easy Exercises
+
+### 1: Hamppe – Steinitz, Vienna 1860
+
+- [Board](https://lichess.org/study/fmCGaziQ/1kiIy1C0)
 
 ![](easy/001.png)
 
@@ -15,7 +19,7 @@
   - King should capture rook and move to the only possible spot
   - Rook h8 check-mate
 
-## 2: Steinitz – Wilson, London 1862
+### 2: Steinitz – Wilson, London 1862
 
 ![](easy/002.png)
 
@@ -24,3 +28,7 @@
   - d6, opening diagonal for bishop, check
 - Find a way to move black bishop from d6
   - Bishop f8 is not a good move because it doesn't check, bishop can take your bishop, you open the diagonal moving the pawn, king has a new fleein square in the diagonal from your captured bishop
+
+### 3: Steinitz – Dubois, London (6) 1862
+
+![](easy/003.png)

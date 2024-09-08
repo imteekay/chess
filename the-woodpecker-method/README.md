@@ -65,3 +65,19 @@
   - rook d2: check and white should protect the king with capturing the rook
     - White queen doesn't have more its defender: queen takes queen
     - Exchange of rook for a queen
+
+### 5: Steinitz – Barry, Dublin (simul) 1865
+
+- [Board](https://lichess.org/study/fmCGaziQ/XbKDrY1P)
+
+![](easy/005.png)
+
+- Find possible ways to check
+  - The only option for check is bishop f7
+    - King should take the the bishop
+    - Knight takes pawn and check
+    - In these moves, white already took two pawns and and black took a bishop
+    - King should move
+    - Knight takes bishop (xg4)
+    - Knight takes knight (xg4)
+    - Queen takes knight (xg4)

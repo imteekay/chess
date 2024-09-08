@@ -33,4 +33,15 @@
 
 ### 3: Steinitz – Dubois, London (6) 1862
 
+- [Board](https://lichess.org/study/fmCGaziQ/6WpdNogJ)
+
 ![](easy/003.png)
+
+- There's no initial attack the will lead to a check. The closest one is g6 but it looks like a very weak move
+- There's this structure of power: queen + 2 bishops w/ pawn protecting bishop (black) vs queen and rook. The has enough power to defend
+- Find ways to destroy this structure
+  - One way is bishop c5 but it will lead to just exchange of pieces
+  - Another way is to have the pawn e5 attacking bishop
+    - Bishop can choose to stay there and be captured by the pawn or capture the pawn and leave its position
+    - If bishop stays there, xd6, xd6, queen d7, queen d7, rook d7 (black will lose two bishops in this move)
+    - If bishop captures pawn, queen d7, queen d7, rook d7. White with one with advantage of one piece

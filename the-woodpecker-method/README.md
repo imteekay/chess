@@ -45,3 +45,17 @@
     - Bishop can choose to stay there and be captured by the pawn or capture the pawn and leave its position
     - If bishop stays there, xd6, xd6, queen d7, queen d7, rook d7 (black will lose two bishops in this move)
     - If bishop captures pawn, queen d7, queen d7, rook d7. White with one with advantage of one piece
+
+### 3: Steinitz – Dubois, London (6) 1862
+
+- [Board](https://lichess.org/study/fmCGaziQ/qYbzh8BY)
+
+![](easy/004.png)
+
+- Find possible ways to check
+  - queen g4: simple block with rook f3 (simply lose the queen — pawn is guarding this square)
+  - queen c4: simple block with rook d3 (more power on the d file)
+  - queen c2: simply lose the queen
+  - rook d2: check and white should protect the king with capturing the rook
+    - White queen doesn't have more its defender: queen takes queen
+    - Exchange of rook for a queen

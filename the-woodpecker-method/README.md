@@ -1,5 +1,11 @@
 # The Woodpecker Method
 
+- [Easy Exercises](#easy-exercises)
+  - [1: Hamppe – Steinitz, Vienna 1860](#1-hamppe--steinitz-vienna-1860)
+  - [2: Steinitz – Wilson, London 1862](#2-steinitz--wilson-london-1862)
+  - [3: Steinitz – Dubois, London (6) 1862](#3-steinitz--dubois-london-6-1862)
+  - [4: Green – Steinitz, London (1) 1864](#4-green--steinitz-london-1-1864)
+
 ## Easy Exercises
 
 ### 1: Hamppe – Steinitz, Vienna 1860

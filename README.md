@@ -1,5 +1,7 @@
 # Chess
 
+- [Bobby Fischer Teaches Chess: book summary](bobby-fischer-teaches-chess)
+
 ## Resources
 
 - [Master Class with GM Pia Cramling](https://www.youtube.com/watch?v=Ult7nivO2OE)

@@ -1,3 +1,5 @@
+<samp>
+
 # Chess
 
 - [Bobby Fischer Teaches Chess: book summary](bobby-fischer-teaches-chess)
@@ -24,3 +26,9 @@
 - [Dvoretsky's Endgame Manual](https://www.goodreads.com/book/show/83341)
 - [My 60 Memorable Games by Bobby Fischer](https://www.goodreads.com/book/show/683096)
 - [The Woodpecker Method](https://www.goodreads.com/book/show/41744010-the-woodpecker-method)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
+
+</samp>

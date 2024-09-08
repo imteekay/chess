@@ -1,6 +1,7 @@
 # Chess
 
 - [Bobby Fischer Teaches Chess: book summary](bobby-fischer-teaches-chess)
+- [The Woodpecker Method: book summary](the-woodpecker-method)
 
 ## Resources
 

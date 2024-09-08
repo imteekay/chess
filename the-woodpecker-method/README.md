@@ -14,3 +14,13 @@
   - The only possible check is rook xh2 but the rook is not protected
   - King should capture rook and move to the only possible spot
   - Rook h8 check-mate
+
+## 2: Steinitz – Wilson, London 1862
+
+![](easy/002.png)
+
+- Find possible ways to check the king
+  - Rook f8 protected by bishop
+  - d6, opening diagonal for bishop, check
+- Find a way to move black bishop from d6
+  - Bishop f8 is not a good move because it doesn't check, bishop can take your bishop, you open the diagonal moving the pawn, king has a new fleein square in the diagonal from your captured bishop

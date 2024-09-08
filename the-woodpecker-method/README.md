@@ -46,7 +46,7 @@
     - If bishop stays there, xd6, xd6, queen d7, queen d7, rook d7 (black will lose two bishops in this move)
     - If bishop captures pawn, queen d7, queen d7, rook d7. White with one with advantage of one piece
 
-### 3: Steinitz – Dubois, London (6) 1862
+### 4: Green – Steinitz, London (1) 1864
 
 - [Board](https://lichess.org/study/fmCGaziQ/qYbzh8BY)
 

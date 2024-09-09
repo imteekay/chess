@@ -81,3 +81,16 @@
     - Knight takes bishop (xg4)
     - Knight takes knight (xg4)
     - Queen takes knight (xg4)
+
+### 6: Fraser – Steinitz, Dundee 1867
+
+- [Board](https://lichess.org/study/fmCGaziQ/lRgdCxcj)
+
+![](easy/006.png)
+
+- Find possible ways to check
+  - Bishop g5 but there's interposition by knight and king can easily move to a fleeing square
+- Take a look at the diagonal of queen and king: we can take advantage of that and win a queen
+  - The bishop can go a5 but there's a knight protecting that square
+  - The bishop can take care of the knight but the bishop can capture our bishop and attack our queen. Rook will need to capture the bishop and the rook will be captured by the pawn. This move make us lose the hook and exchange bishops
+  - Another approach: rook takes the knight, pawn captures the rook, bishop a5, queen is pinned.

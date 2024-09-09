@@ -94,3 +94,14 @@
   - The bishop can go a5 but there's a knight protecting that square
   - The bishop can take care of the knight but the bishop can capture our bishop and attack our queen. Rook will need to capture the bishop and the rook will be captured by the pawn. This move make us lose the hook and exchange bishops
   - Another approach: rook takes the knight, pawn captures the rook, bishop a5, queen is pinned.
+
+### 7: Steinitz – Baker, London (simul) 1868
+
+- [Board](https://lichess.org/study/fmCGaziQ/HAPyVbVX)
+
+![](easy/007.png)
+
+- Find possible ways to check
+  - Queen takes pawn, king should capture queen, and rook checks. King has many fleeing squares
+- Rook takes bishop, queen takes rook, pawn f3, queen can defend with f1
+- Pawn f3, queen should take it. Queen moving to f3 can't defend the bishop anymore. Rook captures bishop. Exchange of bishop for a pawn.

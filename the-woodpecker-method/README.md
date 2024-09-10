@@ -117,3 +117,17 @@
   - When going knight e3, the only piece protecting the king is the queen: ask yourself how to move the queen away of that position
     - knight d4 is not that good: bishop can capture your queen, you can capture the queen and you can trade bishop for a knight — or just lose the knight (captured by their knight)
     - queen takes bishop is interesting: queen should take the queen and move away from that position — knight can check and and capture the queen in this process. You trade the queens but also capture the bishop
+
+### 9: Steinitz – Fleissig, Vienna 1873
+
+- [Board](https://lichess.org/study/fmCGaziQ/FpbSdqKs)
+
+![](easy/009.png)
+
+- Find possible ways to check
+  - The first throught was to rook d6 but bishop can easily capture the rook with pawn capturing the bishop. So it's basically an exchange of a rook for a bishop. Not good.
+- Rook on b5 is only protected by the king. What if move a piece to distract the king?
+  - rook capture knight
+  - king capture rook
+  - king capture rook
+  - we have a rook and a knight for a rook

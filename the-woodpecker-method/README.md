@@ -105,3 +105,15 @@
   - Queen takes pawn, king should capture queen, and rook checks. King has many fleeing squares
 - Rook takes bishop, queen takes rook, pawn f3, queen can defend with f1
 - Pawn f3, queen should take it. Queen moving to f3 can't defend the bishop anymore. Rook captures bishop. Exchange of bishop for a pawn.
+
+### 8: Steinitz – Minckwitz, Baden-Baden 1870
+
+- [Board](https://lichess.org/study/fmCGaziQ/7B7DJQ4g)
+
+![](easy/008.png)
+
+- Find possible ways to check
+  - There are some ways of checking but both ways you lose the knight without hurting the opponent
+  - When going knight e3, the only piece protecting the king is the queen: ask yourself how to move the queen away of that position
+    - knight d4 is not that good: bishop can capture your queen, you can capture the queen and you can trade bishop for a knight — or just lose the knight (captured by their knight)
+    - queen takes bishop is interesting: queen should take the queen and move away from that position — knight can check and and capture the queen in this process. You trade the queens but also capture the bishop

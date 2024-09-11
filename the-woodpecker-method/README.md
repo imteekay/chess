@@ -131,3 +131,12 @@
   - king capture rook
   - king capture rook
   - we have a rook and a knight for a rook
+
+### 10: Steinitz – Gelbfuhs, Vienna 1873
+
+- [Board](https://lichess.org/study/fmCGaziQ/nBkQEUrJ)
+
+![](easy/010.png)
+
+- Find possible ways to check
+  - Queen takes knight: pawn should take queen and it opens space to bishop mate

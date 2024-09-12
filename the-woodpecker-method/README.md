@@ -149,3 +149,14 @@
 
 - Find possible ways to check
   - Bishop f7, king should not take bishop because knight can take another pawn, check and capture the bishop when the king run away
+
+### 12: Blackburne – Steinitz, London 1883
+
+- [Board](https://lichess.org/study/fmCGaziQ/SvMdpWSQ)
+
+![](easy/012.png)
+
+- Queen h6 check
+- King has two fleeing squares
+- Rook f8 check (Rook is protected by the queen, king can't take it, so queen should take the rook, leaving the e7 position)
+- Black queen is not protecting the pawn on h7 anymore, queen takes pawn, and check mate

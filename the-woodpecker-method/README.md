@@ -160,3 +160,11 @@
 - King has two fleeing squares
 - Rook f8 check (Rook is protected by the queen, king can't take it, so queen should take the rook, leaving the e7 position)
 - Black queen is not protecting the pawn on h7 anymore, queen takes pawn, and check mate
+
+### 13: Gunsberg – Steinitz, New York (2) 1890
+
+- [Board](https://www.chess.com/analysis/game/pgn/44zYJ6U7HQ?tab=analysis)
+
+![](easy/013.png)
+
+- knight c3. Bishop capture knight, bishop capture rook

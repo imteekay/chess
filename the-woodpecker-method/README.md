@@ -140,3 +140,12 @@
 
 - Find possible ways to check
   - Queen takes knight: pawn should take queen and it opens space to bishop mate
+
+### 11: Steinitz – Meitner, Vienna 1882
+
+- [Board](https://www.365chess.com/game.php?gid=2692434)
+
+![](easy/011.png)
+
+- Find possible ways to check
+  - Bishop f7, king should not take bishop because knight can take another pawn, check and capture the bishop when the king run away

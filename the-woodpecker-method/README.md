@@ -168,3 +168,10 @@
 ![](easy/013.png)
 
 - knight c3. Bishop capture knight, bishop capture rook
+
+### 14: Gunsberg – Steinitz, New York (2) 1890
+
+![](easy/014.png)
+
+- rook d3, queen d3, queen e1, queen d1, queen captures queen mate
+- rook d3, bishop g2, rook d8, a4, rook d1, rook d1, queen d1, knight d1

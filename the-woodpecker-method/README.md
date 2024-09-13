@@ -178,6 +178,8 @@
 
 ### 15: Steinitz – Van Foreest, Haarlem (simul) 1896
 
+- [Board](https://lichess.org/study/fmCGaziQ/6hNIOjvq)
+
 ![](easy/015.png)
 
 - queen captures rook check

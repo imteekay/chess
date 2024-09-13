@@ -175,3 +175,11 @@
 
 - rook d3, queen d3, queen e1, queen d1, queen captures queen mate
 - rook d3, bishop g2, rook d8, a4, rook d1, rook d1, queen d1, knight d1
+
+### 15: Steinitz – Van Foreest, Haarlem (simul) 1896
+
+![](easy/015.png)
+
+- queen captures rook check
+  - king captures queen, rook e1 check mate
+  - king h2, bishop f4 check mate

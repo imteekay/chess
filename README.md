@@ -27,6 +27,7 @@
 - [Dvoretsky's Endgame Manual](https://www.goodreads.com/book/show/83341)
 - [My 60 Memorable Games by Bobby Fischer](https://www.goodreads.com/book/show/683096)
 - [The Woodpecker Method](https://www.goodreads.com/book/show/41744010-the-woodpecker-method)
+- [The Mammoth Book of the World's Greatest Chess Games](https://www.goodreads.com/book/show/56826122-the-mammoth-book-of-the-world-s-greatest-chess-games)
 
 ## License
 

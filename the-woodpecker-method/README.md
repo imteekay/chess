@@ -5,6 +5,17 @@
   - [2: Steinitz – Wilson, London 1862](#2-steinitz--wilson-london-1862)
   - [3: Steinitz – Dubois, London (6) 1862](#3-steinitz--dubois-london-6-1862)
   - [4: Green – Steinitz, London (1) 1864](#4-green--steinitz-london-1-1864)
+  - [5: Steinitz – Barry, Dublin (simul) 1865](#5-steinitz--barry-dublin-simul-1865)
+  - [6: Fraser – Steinitz, Dundee 1867](#6-fraser--steinitz-dundee-1867)
+  - [7: Steinitz – Baker, London (simul) 1868](#7-steinitz--baker-london-simul-1868)
+  - [8: Steinitz – Minckwitz, Baden-Baden 1870](#8-steinitz--minckwitz-baden-baden-1870)
+  - [9: Steinitz – Fleissig, Vienna 1873](#9-steinitz--fleissig-vienna-1873)
+  - [10: Steinitz – Gelbfuhs, Vienna 1873](#10-steinitz--gelbfuhs-vienna-1873)
+  - [11: Steinitz – Meitner, Vienna 1882](#11-steinitz--meitner-vienna-1882)
+  - [12: Blackburne – Steinitz, London 1883](#12-blackburne--steinitz-london-1883)
+  - [13: Gunsberg – Steinitz, New York (2) 1890](#13-gunsberg--steinitz-new-york-2-1890)
+  - [14: Gunsberg – Steinitz, New York (2) 1890](#14-gunsberg--steinitz-new-york-2-1890)
+  - [15: Steinitz – Van Foreest, Haarlem (simul) 1896](#15-steinitz--van-foreest-haarlem-simul-1896)
 
 ## Easy Exercises
 

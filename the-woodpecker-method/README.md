@@ -201,5 +201,9 @@
 
 ## Resources
 
-- [Easy I](https://lichess.org/study/fmCGaziQ/1kiIy1C0)
-- [Easy II](https://lichess.org/study/iXZyyKyK/OTgxUG84)
+- [Easy: 1 - 50](https://lichess.org/study/KxpQnika)
+- [Easy: 51 - 100](https://lichess.org/study/4gzGL3Gt)
+- [Easy: 101 - 150](https://lichess.org/study/D2bCZhgA)
+- [Easy: 129 - 192](https://lichess.org/study/sALDiOVl/Zdfy6ZMs)
+- [Easy: 193 - 254](https://lichess.org/study/Lmzzz2XE)
+- [Easy: 201 - 222](https://lichess.org/study/Cw7kju9J)

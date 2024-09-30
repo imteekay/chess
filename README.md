@@ -29,6 +29,10 @@
 - [The Woodpecker Method](https://www.goodreads.com/book/show/41744010-the-woodpecker-method)
 - [The Mammoth Book of the World's Greatest Chess Games](https://www.goodreads.com/book/show/56826122-the-mammoth-book-of-the-world-s-greatest-chess-games)
 
+## Movies & Documentaries
+
+- [Bobby Fischer Against The World](https://www.youtube.com/watch?v=pavYCzvg2fM)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)

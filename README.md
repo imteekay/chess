@@ -19,6 +19,7 @@
 - [Chess Steps (600-1000)](https://www.youtube.com/watch?v=ScY7qXkmTwA)
 - [Chess calculation for beginners and grandmasters](https://www.youtube.com/watch?v=E-_mlyCNrFs)
 - [5 steps to 1000](https://www.youtube.com/watch?v=mjZKRoNuAvY)
+- [World Leading Coach trained an army of Indian GMs - here's how to actually improve your chess](https://www.youtube.com/watch?v=0l95DynHkys)
 
 ## Books
 

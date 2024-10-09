@@ -30,6 +30,7 @@
 - [The Woodpecker Method](https://www.goodreads.com/book/show/41744010-the-woodpecker-method)
 - [The Mammoth Book of the World's Greatest Chess Games](https://www.goodreads.com/book/show/56826122-the-mammoth-book-of-the-world-s-greatest-chess-games)
 - [How to Study Chess on Your Own: Creating a Plan that Works… and Sticking to it!](https://www.goodreads.com/book/show/57973884-how-to-study-chess-on-your-own)
+- [Positional Decision Making in Chess](https://www.goodreads.com/book/show/27477207-positional-decision-making-in-chess)
 
 ## Movies & Documentaries
 
